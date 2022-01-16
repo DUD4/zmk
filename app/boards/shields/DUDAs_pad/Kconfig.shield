@@ -1,0 +1,3 @@
+config SHIELD_DUDAS_PAD
+	def_bool $(shields_list_contains,DUD4s_pad)
+

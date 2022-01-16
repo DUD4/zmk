@@ -1,0 +1,8 @@
+file_format: "1"
+id: DUDAs_pad
+name: DUDAs
+type: shield
+url: localhost
+requires: [pro_micro]
+features:
+  - keys
